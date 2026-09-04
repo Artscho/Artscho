@@ -1,8 +1,12 @@
 # Josef Here👋
 
-## I'm a software enggineer who was passionable about encouraging other to get in the industry
-
-
+## I'm a software enggineer who was passionable about encouraging other to get in the industry.
+I enjoy community building, content creation and learning deeply about css and building idea to visual virtual things.
+I've been working as a full stack engineer for a while and currently work as a freelancer.
+Let's get in touch with me, thank u 😄
+<!--Connect with me on istagram! :)
+U can find a lot of my content on my Instagram page and you can get in touch with me on X.
+You can also connect with me on Linkedln or send me an email.
 <!--Ferry Here!
 **Artscho/Artscho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
