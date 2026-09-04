@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#<!--Ferry Here!
+<!--Ferry Here!
 I'm a software enggineer who was passionable about encouraging other to get in the industry
 **Artscho/Artscho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
